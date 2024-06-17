@@ -7,14 +7,13 @@
     "nodemon": "^3.1.0",
     "path": "^0.12.7"
   },
-  "name": "newswebsite-be",
+  "name": "newswebsite",
   "version": "1.0.0",
-  "main": "App.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node app.js"
   },
-
   "author": "",
   "license": "ISC",
   "description": ""
